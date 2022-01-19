@@ -1,2 +1,16 @@
-# commitment
-Commitment can be defined as a quality of being dedicated to an action - for this project you will use a stream-of-consciousness approach (a person's thoughts and conscious reactions to events, perceived as a continuous flow) to create a web page tapestry that incorporates text and css design elements (you may also use optimized imagery and javascript for interactivity). For this project you will use git to make at least 100 git commits and "many" pushes to github.
+<!--Built on stacking cards idea from: https://codepen.io/bramus/pen/PobmGme-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>About Me - Zsh Me</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+
+  <body>
+    <p>Test again</p>
+
+  </body>s
+
+
+  </html>
