@@ -1,25 +1,27 @@
-.container {
-	height: 100vh;
-	background: lightgrey;
+
+.height-100vh {
+  height: 50vh;
+  background: lightgrey;
 }
 
-.flexbox{
-	display: flex;
-	align-items: center;
-	justify-content: center;
+.center-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.title {
-	position: absolute;
-	color: white;
-	font-size: 120px;
-	font-family: 'Bangers', cursive;
-	
+.background-image {
+  opacity: .9;
+  width: 100%;
+  object-fit:cover; 
+  height: 100%;
 }
 
-.title-background {
-	width: 100%;
-	object-fit: cover;
-	height: 100%;
+.text {
+  position: absolute;
+  color: white;
+  font-family: 'Bangers', cursive;
+  background: black;
+  padding: 20px;
+  font-size: 120px;
 }
-
