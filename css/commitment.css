@@ -4,10 +4,14 @@
   background: lightgrey;
 }
 
-.center-align {
+.flexbox {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.flexbox :second-child {
+	width: 50%;
 }
 
 .background-image {
