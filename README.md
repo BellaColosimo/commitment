@@ -1,10 +1,3 @@
-Create a subdirectory "commitment" inside your dev directory. Commitment can be defined as a quality of being dedicated to an action - for this project you will use a stream-of-consciousness approach (a person's thoughts and conscious reactions to events, perceived as a continuous flow) to create a web page tapestry that incorporates text and css design elements (you may also use optimized imagery and javascript for interactivity). For this project you will use git to make at least 100 git commits and "many" pushes to github.
+ASSIGNMENT: Create a subdirectory "commitment" inside your dev directory. Commitment can be defined as a quality of being dedicated to an action - for this project you will use a stream-of-consciousness approach (a person's thoughts and conscious reactions to events, perceived as a continuous flow) to create a web page tapestry that incorporates text and css design elements. Pick a theme or topic and start riffing.  Use css animation, css patterns, css shapes, and creative google fonts and icons.  For this project you will use git to make at least 100 git commits and "many" pushes to github.
 
-Parameters
-NO SEMANTIC RULES!
-NO VALIDATION!
-External style sheet
-github repo w/ 100 commits and README.md
-Resources
-About READMEs (Links to an external site.)
-Mastering Markdown
+DESCRIPTION: Space is a web tapestry based on the opening words for Star Trek. 12 different fonts and 12 different pictures are layered on the site using flexbox and basic CSS. With the page loading so slowly with the size of the images, some animations had to be removed to perserve some semblance of loading quickly. 
