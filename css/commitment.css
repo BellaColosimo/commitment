@@ -1,4 +1,4 @@
-
+/*help from: https://www.sliderrevolution.com/resources/css-text-animation/*/
 .height-100vh {
   height: 50vh;
   background: lightgrey;
@@ -14,7 +14,7 @@
 	width: 50%;
 }
 
-.background-image {
+.imag {
   opacity: .9;
   width: 100%;
   object-fit:cover; 
@@ -46,6 +46,7 @@
   background: black;
   padding: 20px;
   font-size: 120px;
+  flex: 2;
 }
 
 .text3 {
