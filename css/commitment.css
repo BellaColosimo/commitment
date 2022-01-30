@@ -24,7 +24,6 @@
 
 .text {
   position: absolute;
-  color: white;
   font-family: 'Bangers', cursive;
   padding: 20px;
   font-size: 120px;
@@ -34,9 +33,10 @@
   -moz-background-clip: text;
   -webkit-background-clip: text;
   text-transform: uppercase;
-  font-size: 120px;
+  font-size: 200px;
   line-height: .75;
   margin: 10px 0;
+  background-color: black;
 }
 
 .text2 {
@@ -46,7 +46,7 @@
   background: black;
   padding: 20px;
   font-size: 120px;
-  flex: 2;
+  
 }
 
 .text3 {
