@@ -1,17 +1,19 @@
 /*help from: https://www.sliderrevolution.com/resources/css-text-animation/*/
 .height-100vh {
   height: 50vh;
-  background: lightgrey;
+
 }
 
 .flexbox {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 50px black;
+
 }
 
-
+body {
+  background: black;
+}
 
 .images {
   opacity: .9;
