@@ -8,11 +8,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  border-bottom: 50px black;
 }
 
-.flexbox :second-child {
-	width: 50%;
-}
+
 
 .images {
   opacity: .9;
